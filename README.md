@@ -67,7 +67,7 @@ Example structure for production:
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/prometheus-gin-example.git
+git clone [https://github.com/yourusername/prometheus-gin-example.git](https://github.com/karthik507/PrometheusClient.git)
 cd prometheus-gin-example
 ```
 
